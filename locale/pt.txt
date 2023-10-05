@@ -3,30 +3,30 @@
 ## Action
 
 ### URL
-LinkBehaviour_E31B2FD4_FD84_AA93_41DC_AE4C11FE3410.source = https://api.whatsapp.com/send/?phone=558330482929&text&type=phone_number&app_absent=0
-LinkBehaviour_E6E330AF_FC8D_968E_41E7_3F7A0A1968F2.source = https://api.whatsapp.com/send/?phone=558330482929&text&type=phone_number&app_absent=0
-LinkBehaviour_CDDBAB8F_FC84_AA8E_41EE_419CFD1AADAA.source = https://api.whatsapp.com/send/?phone=558330482929&text&type=phone_number&app_absent=0
+LinkBehaviour_CDDB4B94_FC84_AA92_41B0_ACE8014013C7.source = https://api.whatsapp.com/send/?phone=558330482929&text&type=phone_number&app_absent=0
 LinkBehaviour_CDC78BA7_FC84_AABE_41E7_8C1662C5FC91.source = https://api.whatsapp.com/send/?phone=558330482929&text&type=phone_number&app_absent=0
 LinkBehaviour_E4B0EADC_FC9F_6A92_41D6_7B00FA496BA0.source = https://api.whatsapp.com/send/?phone=558330482929&text&type=phone_number&app_absent=0
-LinkBehaviour_CDDB4B94_FC84_AA92_41B0_ACE8014013C7.source = https://api.whatsapp.com/send/?phone=558330482929&text&type=phone_number&app_absent=0
-LinkBehaviour_CDD8DB92_FC84_AA96_41E4_98E7CD615D96.source = https://www.facebook.com/diagsonmedicina/
-LinkBehaviour_E4925509_FC9D_BF72_41C4_F3D06B2BA518.source = https://www.facebook.com/diagsonmedicina/
-LinkBehaviour_CDC60BA3_FC84_AAB6_41E3_27277C3FE86C.source = https://www.facebook.com/diagsonmedicina/
+LinkBehaviour_E6E330AF_FC8D_968E_41E7_3F7A0A1968F2.source = https://api.whatsapp.com/send/?phone=558330482929&text&type=phone_number&app_absent=0
+LinkBehaviour_CDDBAB8F_FC84_AA8E_41EE_419CFD1AADAA.source = https://api.whatsapp.com/send/?phone=558330482929&text&type=phone_number&app_absent=0
+LinkBehaviour_E31B2FD4_FD84_AA93_41DC_AE4C11FE3410.source = https://api.whatsapp.com/send/?phone=558330482929&text&type=phone_number&app_absent=0
 LinkBehaviour_E3183FCD_FD84_AA8D_41D4_E9DAD224DC6E.source = https://www.facebook.com/diagsonmedicina/
 LinkBehaviour_CDDB6B8D_FC84_AB72_41EC_0C2630A4E0CA.source = https://www.facebook.com/diagsonmedicina/
 LinkBehaviour_E66444FA_FC8C_9E96_41CA_6E389363CE8D.source = https://www.facebook.com/diagsonmedicina/
-LinkBehaviour_E3159FD6_FD84_AA9F_41E3_80851E3A851C.source = https://www.google.com/maps/place/Diagson+Diagn%C3%B3stico+por+Imagem+-+Unidade+Cabo+Branco/@-7.1208099,-34.8303532,17z/data=!3m1!4b1!4m6!3m5!1s0x7acdd18e60272e5:0xbb2073748713fde!8m2!3d-7.1208152!4d-34.8277783!16s%2Fg%2F11l2zt6t4h?entry=ttu
+LinkBehaviour_CDD8DB92_FC84_AA96_41E4_98E7CD615D96.source = https://www.facebook.com/diagsonmedicina/
+LinkBehaviour_E4925509_FC9D_BF72_41C4_F3D06B2BA518.source = https://www.facebook.com/diagsonmedicina/
+LinkBehaviour_CDC60BA3_FC84_AAB6_41E3_27277C3FE86C.source = https://www.facebook.com/diagsonmedicina/
 LinkBehaviour_CDC5BB9C_FC84_AA92_41E4_4FFF71D826BE.source = https://www.google.com/maps/place/Diagson+Diagn%C3%B3stico+por+Imagem+-+Unidade+Cabo+Branco/@-7.1208099,-34.8303532,17z/data=!3m1!4b1!4m6!3m5!1s0x7acdd18e60272e5:0xbb2073748713fde!8m2!3d-7.1208152!4d-34.8277783!16s%2Fg%2F11l2zt6t4h?entry=ttu
-LinkBehaviour_E66355B0_FC8C_9E92_41CF_D55CDE3A1BD3.source = https://www.google.com/maps/place/Diagson+Diagnostico+por+Imagem-+Unidade+B.+dos+Estados/@-7.1181141,-34.8618492,17z/data=!3m1!4b1!4m6!3m5!1s0x7acdd568cf88f3d:0xe97e51faa4bbacab!8m2!3d-7.1181194!4d-34.8592743!16s%2Fg%2F11b671my04?authuser=1&entry=ttu
+LinkBehaviour_E3159FD6_FD84_AA9F_41E3_80851E3A851C.source = https://www.google.com/maps/place/Diagson+Diagn%C3%B3stico+por+Imagem+-+Unidade+Cabo+Branco/@-7.1208099,-34.8303532,17z/data=!3m1!4b1!4m6!3m5!1s0x7acdd18e60272e5:0xbb2073748713fde!8m2!3d-7.1208152!4d-34.8277783!16s%2Fg%2F11l2zt6t4h?entry=ttu
 LinkBehaviour_CDC1EBA8_FC84_AAB2_41DC_B48FAF97E242.source = https://www.google.com/maps/place/Diagson+Diagnostico+por+Imagem-+Unidade+B.+dos+Estados/@-7.1181141,-34.8618492,17z/data=!3m1!4b1!4m6!3m5!1s0x7acdd568cf88f3d:0xe97e51faa4bbacab!8m2!3d-7.1181194!4d-34.8592743!16s%2Fg%2F11b671my04?authuser=1&entry=ttu
-LinkBehaviour_EBBB0DBC_FC9C_AE92_41B6_C927BEF442EA.source = https://www.google.com/maps/place/Diagson+Medicina+e+Sa%C3%BAde+-+Unidade+Torre/@-7.1211012,-34.8700394,15z/data=!4m6!3m5!1s0x7ace7fdb03caef5:0xdc5c57e96c9c95bf!8m2!3d-7.1211012!4d-34.8700394!16s%2Fg%2F1ydkd24cm?entry=ttu
+LinkBehaviour_E66355B0_FC8C_9E92_41CF_D55CDE3A1BD3.source = https://www.google.com/maps/place/Diagson+Diagnostico+por+Imagem-+Unidade+B.+dos+Estados/@-7.1181141,-34.8618492,17z/data=!3m1!4b1!4m6!3m5!1s0x7acdd568cf88f3d:0xe97e51faa4bbacab!8m2!3d-7.1181194!4d-34.8592743!16s%2Fg%2F11b671my04?authuser=1&entry=ttu
 LinkBehaviour_CDDBEB90_FC84_AA92_41A9_A2C0754B81EA.source = https://www.google.com/maps/place/Diagson+Medicina+e+Sa%C3%BAde+-+Unidade+Torre/@-7.1211012,-34.8700394,15z/data=!4m6!3m5!1s0x7ace7fdb03caef5:0xdc5c57e96c9c95bf!8m2!3d-7.1211012!4d-34.8700394!16s%2Fg%2F1ydkd24cm?entry=ttu
-LinkBehaviour_CDDB3B93_FC84_AA96_41C2_D34FDAD3F7B3.source = https://www.instagram.com/diagsonmedicina/
-LinkBehaviour_E4584F73_FC9C_EB95_41EC_921F0BD9115C.source = https://www.instagram.com/diagsonmedicina/
-LinkBehaviour_CDC53BA5_FC84_AAB2_41EC_1498A1AE288A.source = https://www.instagram.com/diagsonmedicina/
-LinkBehaviour_E659F369_FC8D_9BB2_41C6_E1C74C45E8AE.source = https://www.instagram.com/diagsonmedicina/
-LinkBehaviour_CDDB6B8F_FC84_AA8E_41E0_314DC0DFEC67.source = https://www.instagram.com/diagsonmedicina/
+LinkBehaviour_EBBB0DBC_FC9C_AE92_41B6_C927BEF442EA.source = https://www.google.com/maps/place/Diagson+Medicina+e+Sa%C3%BAde+-+Unidade+Torre/@-7.1211012,-34.8700394,15z/data=!4m6!3m5!1s0x7ace7fdb03caef5:0xdc5c57e96c9c95bf!8m2!3d-7.1211012!4d-34.8700394!16s%2Fg%2F1ydkd24cm?entry=ttu
 LinkBehaviour_E31ABFD0_FD84_AA93_41ED_C324B354EFA4.source = https://www.instagram.com/diagsonmedicina/
+LinkBehaviour_CDDB6B8F_FC84_AA8E_41E0_314DC0DFEC67.source = https://www.instagram.com/diagsonmedicina/
+LinkBehaviour_E659F369_FC8D_9BB2_41C6_E1C74C45E8AE.source = https://www.instagram.com/diagsonmedicina/
+LinkBehaviour_CDC53BA5_FC84_AAB2_41EC_1498A1AE288A.source = https://www.instagram.com/diagsonmedicina/
+LinkBehaviour_E4584F73_FC9C_EB95_41EC_921F0BD9115C.source = https://www.instagram.com/diagsonmedicina/
+LinkBehaviour_CDDB3B93_FC84_AA96_41C2_D34FDAD3F7B3.source = https://www.instagram.com/diagsonmedicina/
 
 ## Media
 
@@ -64,18 +64,16 @@ panorama_E1A51B18_F770_3218_41E4_1289658E4FCF.label = torre sl espera2(1)
 ## Skin
 
 ### Button
-Button_F4201EA8_FA6A_B98F_41D2_BD175C21E560.label = Densitometria
 Button_F4201EA8_FA6A_B98F_41D2_BD175C21E560_mobile.label = Densitometria
+Button_F4201EA8_FA6A_B98F_41D2_BD175C21E560.label = Densitometria
 Button_EB1DBBEB_FA2E_FF81_41E1_1A74AA29A6D2_mobile.label = Estacionamento
 Button_EB1DBBEB_FA2E_FF81_41E1_1A74AA29A6D2.label = Estacionamento
-Button_F4207EA8_FA6A_B98F_41C0_A88A344964D6_mobile.pressedLabel = Location
-Button_F4207EA8_FA6A_B98F_41C0_A88A344964D6.pressedLabel = Location
-Button_F4207EA8_FA6A_B98F_41C0_A88A344964D6_mobile.label = Mamografia
 Button_F4207EA8_FA6A_B98F_41C0_A88A344964D6.label = Mamografia
+Button_F4207EA8_FA6A_B98F_41C0_A88A344964D6_mobile.label = Mamografia
 Button_F421FEA8_FA6A_B98F_41EC_A9E6196C7C43.label = Medicina Nuclear
 Button_F421FEA8_FA6A_B98F_41EC_A9E6196C7C43_mobile.label = Medicina Nuclear
-Button_F4205EA8_FA6A_B98F_41E8_CDC2FBE72B2D_mobile.label = Raio X
 Button_F4205EA8_FA6A_B98F_41E8_CDC2FBE72B2D.label = Raio X
+Button_F4205EA8_FA6A_B98F_41E8_CDC2FBE72B2D_mobile.label = Raio X
 Button_EA7CB82C_FA25_F887_41E2_930666BAC57E.label = Ressonância
 Button_EA7CB82C_FA25_F887_41E2_930666BAC57E_mobile.label = Ressonância
 Button_D594D224_FD84_95B3_41D7_8681F2CDCB38.label = Tomografia

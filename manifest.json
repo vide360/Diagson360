@@ -1,9 +1,8 @@
 {
- "background_color": "#FFFFFF",
- "display": "fullscreen",
  "start_url": "index.htm",
+ "display": "fullscreen",
  "theme_color": "#FFFFFF",
- "name": "Diagson",
+ "background_color": "#FFFFFF",
  "icons": [
   {
    "type": "image/png",
@@ -40,5 +39,6 @@
    "src": "misc/icon64.png",
    "sizes": "64x64"
   }
- ]
+ ],
+ "name": "Diagson"
 }
