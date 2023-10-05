@@ -1,0 +1,131 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_E31B2FD4_FD84_AA93_41DC_AE4C11FE3410.source = https://api.whatsapp.com/send/?phone=558330482929&text&type=phone_number&app_absent=0
+LinkBehaviour_E6E330AF_FC8D_968E_41E7_3F7A0A1968F2.source = https://api.whatsapp.com/send/?phone=558330482929&text&type=phone_number&app_absent=0
+LinkBehaviour_CDDBAB8F_FC84_AA8E_41EE_419CFD1AADAA.source = https://api.whatsapp.com/send/?phone=558330482929&text&type=phone_number&app_absent=0
+LinkBehaviour_CDC78BA7_FC84_AABE_41E7_8C1662C5FC91.source = https://api.whatsapp.com/send/?phone=558330482929&text&type=phone_number&app_absent=0
+LinkBehaviour_E4B0EADC_FC9F_6A92_41D6_7B00FA496BA0.source = https://api.whatsapp.com/send/?phone=558330482929&text&type=phone_number&app_absent=0
+LinkBehaviour_CDDB4B94_FC84_AA92_41B0_ACE8014013C7.source = https://api.whatsapp.com/send/?phone=558330482929&text&type=phone_number&app_absent=0
+LinkBehaviour_CDD8DB92_FC84_AA96_41E4_98E7CD615D96.source = https://www.facebook.com/diagsonmedicina/
+LinkBehaviour_E4925509_FC9D_BF72_41C4_F3D06B2BA518.source = https://www.facebook.com/diagsonmedicina/
+LinkBehaviour_CDC60BA3_FC84_AAB6_41E3_27277C3FE86C.source = https://www.facebook.com/diagsonmedicina/
+LinkBehaviour_E3183FCD_FD84_AA8D_41D4_E9DAD224DC6E.source = https://www.facebook.com/diagsonmedicina/
+LinkBehaviour_CDDB6B8D_FC84_AB72_41EC_0C2630A4E0CA.source = https://www.facebook.com/diagsonmedicina/
+LinkBehaviour_E66444FA_FC8C_9E96_41CA_6E389363CE8D.source = https://www.facebook.com/diagsonmedicina/
+LinkBehaviour_E3159FD6_FD84_AA9F_41E3_80851E3A851C.source = https://www.google.com/maps/place/Diagson+Diagn%C3%B3stico+por+Imagem+-+Unidade+Cabo+Branco/@-7.1208099,-34.8303532,17z/data=!3m1!4b1!4m6!3m5!1s0x7acdd18e60272e5:0xbb2073748713fde!8m2!3d-7.1208152!4d-34.8277783!16s%2Fg%2F11l2zt6t4h?entry=ttu
+LinkBehaviour_CDC5BB9C_FC84_AA92_41E4_4FFF71D826BE.source = https://www.google.com/maps/place/Diagson+Diagn%C3%B3stico+por+Imagem+-+Unidade+Cabo+Branco/@-7.1208099,-34.8303532,17z/data=!3m1!4b1!4m6!3m5!1s0x7acdd18e60272e5:0xbb2073748713fde!8m2!3d-7.1208152!4d-34.8277783!16s%2Fg%2F11l2zt6t4h?entry=ttu
+LinkBehaviour_E66355B0_FC8C_9E92_41CF_D55CDE3A1BD3.source = https://www.google.com/maps/place/Diagson+Diagnostico+por+Imagem-+Unidade+B.+dos+Estados/@-7.1181141,-34.8618492,17z/data=!3m1!4b1!4m6!3m5!1s0x7acdd568cf88f3d:0xe97e51faa4bbacab!8m2!3d-7.1181194!4d-34.8592743!16s%2Fg%2F11b671my04?authuser=1&entry=ttu
+LinkBehaviour_CDC1EBA8_FC84_AAB2_41DC_B48FAF97E242.source = https://www.google.com/maps/place/Diagson+Diagnostico+por+Imagem-+Unidade+B.+dos+Estados/@-7.1181141,-34.8618492,17z/data=!3m1!4b1!4m6!3m5!1s0x7acdd568cf88f3d:0xe97e51faa4bbacab!8m2!3d-7.1181194!4d-34.8592743!16s%2Fg%2F11b671my04?authuser=1&entry=ttu
+LinkBehaviour_EBBB0DBC_FC9C_AE92_41B6_C927BEF442EA.source = https://www.google.com/maps/place/Diagson+Medicina+e+Sa%C3%BAde+-+Unidade+Torre/@-7.1211012,-34.8700394,15z/data=!4m6!3m5!1s0x7ace7fdb03caef5:0xdc5c57e96c9c95bf!8m2!3d-7.1211012!4d-34.8700394!16s%2Fg%2F1ydkd24cm?entry=ttu
+LinkBehaviour_CDDBEB90_FC84_AA92_41A9_A2C0754B81EA.source = https://www.google.com/maps/place/Diagson+Medicina+e+Sa%C3%BAde+-+Unidade+Torre/@-7.1211012,-34.8700394,15z/data=!4m6!3m5!1s0x7ace7fdb03caef5:0xdc5c57e96c9c95bf!8m2!3d-7.1211012!4d-34.8700394!16s%2Fg%2F1ydkd24cm?entry=ttu
+LinkBehaviour_CDDB3B93_FC84_AA96_41C2_D34FDAD3F7B3.source = https://www.instagram.com/diagsonmedicina/
+LinkBehaviour_E4584F73_FC9C_EB95_41EC_921F0BD9115C.source = https://www.instagram.com/diagsonmedicina/
+LinkBehaviour_CDC53BA5_FC84_AAB2_41EC_1498A1AE288A.source = https://www.instagram.com/diagsonmedicina/
+LinkBehaviour_E659F369_FC8D_9BB2_41C6_E1C74C45E8AE.source = https://www.instagram.com/diagsonmedicina/
+LinkBehaviour_CDDB6B8F_FC84_AA8E_41E0_314DC0DFEC67.source = https://www.instagram.com/diagsonmedicina/
+LinkBehaviour_E31ABFD0_FD84_AA93_41ED_C324B354EFA4.source = https://www.instagram.com/diagsonmedicina/
+
+## Media
+
+### Audio
+audiores_D17335E6_FC83_9EBF_41D9_F9D3E7D047BB.mp3Url = media/audio_D3B647B3_FC83_FA96_41D1_BB76A576F59D_pt.mp3
+
+### Title
+panorama_E1296B8B_F7B0_72FF_41B9_002D7E36FD59.label = consultorio
+panorama_E3BFDC13_F790_35EF_41EA_B09A6793FF61.label = corredor be
+panorama_E1A62A55_F7B0_126B_41EE_766E6D936A9F.label = epera
+panorama_E1A648D8_F7B0_3E19_41CC_028E55168114.label = fachada
+panorama_E5DEDAE4_F790_1229_41CF_717BC257F426.label = fachada be
+panorama_E1A7671F_F7B0_1217_41DD_5196EB437B1D.label = recepção
+panorama_E5DDB959_F791_FE18_41E6_3FF35A28A89E.label = recepção be
+panorama_E5DC9836_F790_1E28_41D8_F128D4AC9DC2.label = sala comando be
+panorama_E5424015_F790_6DE8_41EA_CAF33813EB57.label = sl enfermagem be
+panorama_E1A43DCE_F770_7678_41D2_D789CB19FFBF.label = torre Gama câmara
+panorama_E1A5B362_F770_1229_41BB_33591AB33B5A.label = torre RX
+panorama_E1A5B8CA_F770_1E79_41EA_D3626FA9B272.label = torre Sl frente mamografia
+panorama_D76CDCE0_FD84_AEB2_41EC_BF2C17FB215A.label = torre consultorio
+panorama_EE51A0DC_F770_2E19_41E6_E0605EE5ED25.label = torre densitometria
+panorama_E1A48F66_F770_3236_41E6_6E08591E7AB8.label = torre estacionamento
+panorama_E1A4DEC9_F770_127B_41EA_73B94D7012FD.label = torre fachada
+panorama_E1A4FC8A_F770_16F8_41AE_96E2B9D77DC9.label = torre mamografia
+panorama_E1A4DAA6_F770_3228_417D_2482B1DE5A52.label = torre medic nuclear 2
+panorama_E1A3091D_F770_1E18_41B0_19DE61411849.label = torre medici nuclear
+panorama_E1A527A3_F771_F22F_41EC_63CCE9EA50CA.label = torre quarto medic nuclear
+panorama_E1A5B444_F770_3669_41D9_61FD559BF24A.label = torre recepção
+panorama_E1A5255A_F770_1618_41D3_862DBEF68014.label = torre recepção 1 andar
+panorama_E1A5F0CA_F770_6E79_41EC_B1E70F84EE09.label = torre sl comando ressonancia
+panorama_E1A5EF0D_F770_73FB_41AA_D4F11F4EB474.label = torre sl comando ressonancia2
+panorama_E1A5DD70_F770_1629_41DE_82582F81C333.label = torre sl espera
+panorama_E1A51B18_F770_3218_41E4_1289658E4FCF.label = torre sl espera2(1)
+
+## Skin
+
+### Button
+Button_F4201EA8_FA6A_B98F_41D2_BD175C21E560.label = Densitometria
+Button_F4201EA8_FA6A_B98F_41D2_BD175C21E560_mobile.label = Densitometria
+Button_EB1DBBEB_FA2E_FF81_41E1_1A74AA29A6D2_mobile.label = Estacionamento
+Button_EB1DBBEB_FA2E_FF81_41E1_1A74AA29A6D2.label = Estacionamento
+Button_F4207EA8_FA6A_B98F_41C0_A88A344964D6_mobile.pressedLabel = Location
+Button_F4207EA8_FA6A_B98F_41C0_A88A344964D6.pressedLabel = Location
+Button_F4207EA8_FA6A_B98F_41C0_A88A344964D6_mobile.label = Mamografia
+Button_F4207EA8_FA6A_B98F_41C0_A88A344964D6.label = Mamografia
+Button_F421FEA8_FA6A_B98F_41EC_A9E6196C7C43.label = Medicina Nuclear
+Button_F421FEA8_FA6A_B98F_41EC_A9E6196C7C43_mobile.label = Medicina Nuclear
+Button_F4205EA8_FA6A_B98F_41E8_CDC2FBE72B2D_mobile.label = Raio X
+Button_F4205EA8_FA6A_B98F_41E8_CDC2FBE72B2D.label = Raio X
+Button_EA7CB82C_FA25_F887_41E2_930666BAC57E.label = Ressonância
+Button_EA7CB82C_FA25_F887_41E2_930666BAC57E_mobile.label = Ressonância
+Button_D594D224_FD84_95B3_41D7_8681F2CDCB38.label = Tomografia
+Button_D594D224_FD84_95B3_41D7_8681F2CDCB38_mobile.label = Tomografia
+Button_F421DEA8_FA6A_B98F_41E7_D98D15353E3F_mobile.label = Ultrassonografia
+Button_F421DEA8_FA6A_B98F_41E7_D98D15353E3F.label = Ultrassonografia
+
+### Image
+Image_E3155FD1_FD84_AA95_41D3_60B584AA5D43_mobile.url = skin/Image_E3155FD1_FD84_AA95_41D3_60B584AA5D43_mobile_pt.png
+Image_E3155FD1_FD84_AA95_41D3_60B584AA5D43.url = skin/Image_E3155FD1_FD84_AA95_41D3_60B584AA5D43_pt.png
+Image_E3187FCE_FD84_AA8F_41E9_6AEA442CBEEF_mobile.url = skin/Image_E3187FCE_FD84_AA8F_41E9_6AEA442CBEEF_mobile_pt.png
+Image_E3187FCE_FD84_AA8F_41E9_6AEA442CBEEF.url = skin/Image_E3187FCE_FD84_AA8F_41E9_6AEA442CBEEF_pt.png
+Image_E31B4FD4_FD84_AA93_41D4_5E51340CBA88_mobile.url = skin/Image_E31B4FD4_FD84_AA93_41D4_5E51340CBA88_mobile_pt.png
+Image_E31B4FD4_FD84_AA93_41D4_5E51340CBA88.url = skin/Image_E31B4FD4_FD84_AA93_41D4_5E51340CBA88_pt.png
+Image_E31FFFCA_FD84_AAF7_41EF_69297599814C_mobile.url = skin/Image_E31FFFCA_FD84_AAF7_41EF_69297599814C_mobile_pt.png
+Image_E31FFFCA_FD84_AAF7_41EF_69297599814C.url = skin/Image_E31FFFCA_FD84_AAF7_41EF_69297599814C_pt.png
+Image_E44E48E2_FC87_96B7_41D0_1BCBEF01DD27_mobile.url = skin/Image_E44E48E2_FC87_96B7_41D0_1BCBEF01DD27_mobile_pt.png
+Image_E44E48E2_FC87_96B7_41D0_1BCBEF01DD27.url = skin/Image_E44E48E2_FC87_96B7_41D0_1BCBEF01DD27_pt.png
+Image_E4573C0A_FC87_AD76_41E8_0F59468EC046_mobile.url = skin/Image_E4573C0A_FC87_AD76_41E8_0F59468EC046_mobile_pt.png
+Image_E4573C0A_FC87_AD76_41E8_0F59468EC046.url = skin/Image_E4573C0A_FC87_AD76_41E8_0F59468EC046_pt.png
+Image_E488B8A5_FC9C_B6B2_41ED_B55D152A6C90_mobile.url = skin/Image_E488B8A5_FC9C_B6B2_41ED_B55D152A6C90_mobile_pt.png
+Image_E488B8A5_FC9C_B6B2_41ED_B55D152A6C90.url = skin/Image_E488B8A5_FC9C_B6B2_41ED_B55D152A6C90_pt.png
+Image_E488F8A5_FC9C_B6B2_41DE_0D21D5B205D7_mobile.url = skin/Image_E488F8A5_FC9C_B6B2_41DE_0D21D5B205D7_mobile_pt.png
+Image_E488F8A5_FC9C_B6B2_41DE_0D21D5B205D7.url = skin/Image_E488F8A5_FC9C_B6B2_41DE_0D21D5B205D7_pt.png
+Image_E48908A6_FC9C_B6BE_41EE_68B6560916CD_mobile.url = skin/Image_E48908A6_FC9C_B6BE_41EE_68B6560916CD_mobile_pt.png
+Image_E48908A6_FC9C_B6BE_41EE_68B6560916CD.url = skin/Image_E48908A6_FC9C_B6BE_41EE_68B6560916CD_pt.png
+Image_E48928A6_FC9C_B6BE_41E5_A47A37147339_mobile.url = skin/Image_E48928A6_FC9C_B6BE_41E5_A47A37147339_mobile_pt.png
+Image_E48928A6_FC9C_B6BE_41E5_A47A37147339.url = skin/Image_E48928A6_FC9C_B6BE_41E5_A47A37147339_pt.png
+Image_E49A956E_FC84_9F8E_41D4_1239C44E0057_mobile.url = skin/Image_E49A956E_FC84_9F8E_41D4_1239C44E0057_mobile_pt.png
+Image_E49A956E_FC84_9F8E_41D4_1239C44E0057.url = skin/Image_E49A956E_FC84_9F8E_41D4_1239C44E0057_pt.png
+Image_E4A2DEA7_FC87_6ABE_41BE_8945ED05F875_mobile.url = skin/Image_E4A2DEA7_FC87_6ABE_41BE_8945ED05F875_mobile_pt.png
+Image_E4A2DEA7_FC87_6ABE_41BE_8945ED05F875.url = skin/Image_E4A2DEA7_FC87_6ABE_41BE_8945ED05F875_pt.png
+Image_E6886802_FD8F_9576_41EB_36E1BB5FAB4F_mobile.url = skin/Image_E6886802_FD8F_9576_41EB_36E1BB5FAB4F_mobile_pt.png
+Image_E6886802_FD8F_9576_41EB_36E1BB5FAB4F.url = skin/Image_E6886802_FD8F_9576_41EB_36E1BB5FAB4F_pt.png
+Image_E8186E58_FC8D_6D92_41E4_646C75A16339_mobile.url = skin/Image_E8186E58_FC8D_6D92_41E4_646C75A16339_mobile_pt.png
+Image_E8186E58_FC8D_6D92_41E4_646C75A16339.url = skin/Image_E8186E58_FC8D_6D92_41E4_646C75A16339_pt.png
+Image_E8E968C5_FC8C_96FD_41E0_1B06643854BC_mobile.url = skin/Image_E8E968C5_FC8C_96FD_41E0_1B06643854BC_mobile_pt.png
+Image_E8E968C5_FC8C_96FD_41E0_1B06643854BC.url = skin/Image_E8E968C5_FC8C_96FD_41E0_1B06643854BC_pt.png
+Image_E9DA74C8_FC85_BEF2_41E3_13938A405439_mobile.url = skin/Image_E9DA74C8_FC85_BEF2_41E3_13938A405439_mobile_pt.png
+Image_E9DA74C8_FC85_BEF2_41E3_13938A405439.url = skin/Image_E9DA74C8_FC85_BEF2_41E3_13938A405439_pt.png
+Image_E9EB8795_FA26_9786_41B7_84CAAE9ACD7C_mobile.url = skin/Image_E9EB8795_FA26_9786_41B7_84CAAE9ACD7C_mobile_pt.png
+Image_E9EB8795_FA26_9786_41B7_84CAAE9ACD7C.url = skin/Image_E9EB8795_FA26_9786_41B7_84CAAE9ACD7C_pt.png
+Image_EBBD7E3F_FA66_B882_41E4_2328E0897449_mobile.url = skin/Image_EBBD7E3F_FA66_B882_41E4_2328E0897449_mobile_pt.png
+Image_EBBD7E3F_FA66_B882_41E4_2328E0897449.url = skin/Image_EBBD7E3F_FA66_B882_41E4_2328E0897449_pt.png
+Image_EFF61544_FC8C_9FF2_41EE_7840481A23A2_mobile.url = skin/Image_EFF61544_FC8C_9FF2_41EE_7840481A23A2_mobile_pt.png
+Image_EFF61544_FC8C_9FF2_41EE_7840481A23A2.url = skin/Image_EFF61544_FC8C_9FF2_41EE_7840481A23A2_pt.png
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Diagson
